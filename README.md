@@ -1,5 +1,5 @@
-# wp-footer-link
-Opens the footer link to Wordpress in a new tab
+# WP Footer Link
+Opens the footer link to Wordpress in a new tab.
 
 ## Install
 
