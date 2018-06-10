@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Footer Link
-Plugin URI: http://graphicscove.github.io/updates-endpoint
+Plugin URI: http://graphicscove.github.io/wp-footer-link
 Description: Opens the footer link to Wordpress in a new tab.
 Author: Steven Noble
 Author URI: http://graphicscove.com
